@@ -1,0 +1,6 @@
+{
+  "name": "BioSeq Lab — Python Biological Sequence Analysis",
+  "description": "Interactive computational biology platform to analyze DNA/protein sequences with Python, calculate GC content and motifs, generate visualizations, and build internship-ready CV project documentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
